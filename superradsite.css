@@ -1,0 +1,41 @@
+body {
+    background-image: url("https://wallpaperscraft.com/image/space_background_blue_dots_73340_3840x2400.jpg");
+}
+
+.header {
+    background-color: black;
+    border-bottom-style: solid;
+    border-color: white;
+    text-align: center;
+    color: white;
+    font-family: arial bold;
+}
+
+.font {
+    color: white;
+    font-family: arial bold;
+    font-size: 20px;
+}
+
+.middle {
+    background-color: black;
+    border-style: solid;
+    border-color: white;
+    border-radius: 5%;
+}
+
+figure {
+    color: white;
+    font-family: arial bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.footer {
+    background-color: black;
+    border-top-style: solid;
+    border-color: white;
+    text-align: center;
+    color: white;
+    font-family: arial bold;
+}
