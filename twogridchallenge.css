@@ -1,0 +1,46 @@
+.header {
+    text-align: center;
+    color: grey;
+    font-family: Arial black;
+    background-color: white;
+}
+
+.infoheader {
+    font-family: Arial black;
+    text-align: center;
+    color: white;
+}
+
+.info {
+    background-color: #3399ff;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: black;
+    font-family: Arial black;
+    text-align: center;
+    color: white;
+}
+
+.card-white {
+  background-color: white;
+  padding: 30px;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  margin: 20px 50px;
+}
+
+.bottomsection {
+  background-color: grey;
+}
+
+.bottomheader {
+    text-align: center;
+    color: white;
+    font-family: Arial black;
+}
+
+.cardheader {
+    text-align: center;
+    color: black;
+    font-family: Arial black;
+}
